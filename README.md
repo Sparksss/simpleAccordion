@@ -1,4 +1,4 @@
 # simpleAccordion
-###This is simple Accordion for articles.
+### This is simple Accordion for articles.
 
-####My first develop Accordion.
+#### My first develop Accordion.
